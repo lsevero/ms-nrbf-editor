@@ -1,0 +1,946 @@
+{
+  "Slot_0_saveKeyGlobalSoundVolume": 1,
+  "Slot_0_saveKeySlotFinishedEvents": [
+    {
+      "EventName": "QuestSlotChosen",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_54_Principal",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_1_Detention",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_Enemy_First Groggy",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "Left Detention",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_2",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "Accept Lets Beat It!",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "Quest_Lets Beat It!",
+      "EventType": 1
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_2_Complete",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_1_Weapons",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_1_Map Markers",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_55_Principal",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_Enemy_Recruit_Begging",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_3",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Sabu_Bust",
+      "TimesFired": 3,
+      "MaxFires": 25,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Sabu_Bust_Tutorial",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_Enemy_Recruit_Recruited",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_4",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_5",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_1_Sex Ed",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_Level_Up",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_6",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_1_Wall Jump",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_57_Principal",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "EnemyDebut_Thug",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "EnemyDebut_Schoolboy",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_59_Principal",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_015",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_Dont Die On Me",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "Kill Misuzu",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "Explore World 2",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "Reward Misuzu",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_2_Cell_Phone_First Access",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_2_Cell_Phone_Map Menu",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_2_Cell_Phone_Expanded Map",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_2_Cell_Phone_Moves Menu",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_2_Cell_Phone_Accessories Menu",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_2_Cell_Phone_Recruits Menu",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_2_Cell_Phone_Settings Menu",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_2_Cell_Phone_Stats Menu",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "Collect Lets Beat It! Get Out",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "Quest_Lets Beat It!",
+      "EventType": 1
+    },
+    {
+      "EventName": "Complete Lets Beat It!",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "Quest_Lets Beat It!",
+      "EventType": 1
+    },
+    {
+      "EventName": "RCG_Event_PassiveDialog_Scene_20",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    },
+    {
+      "EventName": "Accept A Burger to Godai For!",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "Quest_A Burger to Godai For!",
+      "EventType": 1
+    },
+    {
+      "EventName": "RCG_Event_Tutorial_World_2_Gotta Run",
+      "TimesFired": 1,
+      "MaxFires": 1,
+      "QuestName": "",
+      "EventType": 0
+    }
+  ],
+  "saveKeyGlobalVoiceOverLanguage": 0,
+  "saveKeyGlobalSubtitleLanguage": 0,
+  "Slot_0_saveKeySlotSaveDoor": "DoorNorthRavineLane",
+  "Slot_0_saveKeySlotTimePlayedThisRun": 1782,
+  "Slot_0_saveKeyGlobalShowSubtitles": true,
+  "Slot_0_saveKeySlotBucksSpent": 260,
+  "Slot_0_saveKeyGlobalControllerRumble": true,
+  "Slot_0_saveKeySlotAddedStamina": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "Slot_0_saveKeySlotAddedLuck": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "Slot_0_saveKeySlotShowNewGameOptions": false,
+  "Slot_0_saveKeyGlobalFriendlyFire": false,
+  "Slot_0_saveKeySlotSeenScenes": [
+    "loadfromsave",
+    "world_1_detention",
+    "cinematics",
+    "world_1_3rdfloor",
+    "world_1_2ndfloora",
+    "world_1_chemistry",
+    "world_1_2ndfloorb",
+    "world_1_1stfloorb",
+    "world_1_sexed",
+    "world_1_1stfloora",
+    "world_1_gympool",
+    "world_1_gymbasketball",
+    "world_1_cafeteria",
+    "world_1_lobby_cutscene",
+    "world_1_lobby",
+    "world_2_schoolentrance",
+    "world_2_beanballcourt",
+    "world_2_frontgate",
+    "world_2_northravinelane",
+    "world_2_windingway",
+    "world_2_mallentrance"
+  ],
+  "Slot_0_saveKeySlotNewGamePlus": false,
+  "Slot_0_saveKeySlotRecruitUnlocks": [
+    {
+      "EnemyType": 5,
+      "VariantType": 1
+    },
+    {
+      "EnemyType": 2,
+      "VariantType": 1
+    },
+    {
+      "EnemyType": 1,
+      "VariantType": 2
+    },
+    {
+      "EnemyType": 4,
+      "VariantType": 2
+    },
+    {
+      "EnemyType": 1,
+      "VariantType": 3
+    }
+  ],
+  "Slot_0_saveKeySlotQuestInventory": [
+    {
+      "ItemID": "Quest_Lets Beat It!",
+      "ItemType": 2,
+      "AmountCollectedList": [
+        1
+      ]
+    },
+    {
+      "ItemID": "Quest_A Burger to Godai For!",
+      "ItemType": 2,
+      "AmountCollectedList": [
+        0
+      ]
+    },
+    {
+      "ItemID": "Quest_Lets Beat It!",
+      "ItemType": 2,
+      "AmountCollectedList": [
+        0
+      ]
+    },
+    {
+      "ItemID": "Quest_A Burger to Godai For!",
+      "ItemType": 2,
+      "AmountCollectedList": [
+        0
+      ]
+    },
+    {
+      "ItemID": "Quest_Lets Beat It!",
+      "ItemType": 2,
+      "AmountCollectedList": [
+        0
+      ]
+    },
+    {
+      "ItemID": "Quest_A Burger to Godai For!",
+      "ItemType": 2,
+      "AmountCollectedList": [
+        0
+      ]
+    },
+    {
+      "ItemID": "Quest_Lets Beat It!",
+      "ItemType": 2,
+      "AmountCollectedList": [
+        0
+      ]
+    },
+    {
+      "ItemID": "Quest_A Burger to Godai For!",
+      "ItemType": 2,
+      "AmountCollectedList": [
+        0
+      ]
+    },
+    {
+      "ItemID": "Quest_Lets Beat It!",
+      "ItemType": 2,
+      "AmountCollectedList": [
+        0
+      ]
+    },
+    {
+      "ItemID": "Quest_A Burger to Godai For!",
+      "ItemType": 2,
+      "AmountCollectedList": [
+        0
+      ]
+    }
+  ],
+  "Slot_0_saveKeySlotBaddiesBeaten": 107,
+  "Slot_0_saveKeySlotSpeedruniestCompletion": 360000,
+  "Slot_0_saveKeyGlobalMusicVolume": 1,
+  "Slot_0_saveKeySlotAddedSpecial": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "Slot_0_saveKeySlotMoments": [
+    "GameObject: ScreenLock | Scene: World_1_Detention",
+    "GameObject: ScreenLock | Scene: World_1_3rdFloor",
+    "GameObject: SabuBust | Scene: World_1_Chemistry",
+    "GameObject: ScreenLock | Scene: World_1_Chemistry",
+    "GameObject: ScreenLock | Scene: World_1_SexEd",
+    "GameObject: ScreenLock | Scene: World_1_GymPool",
+    "GameObject: SabuBust | Scene: World_1_GymPool",
+    "GameObject: ScreenLock (1) | Scene: World_1_Cafeteria",
+    "GameObject: SabuBust | Scene: World_2_SchoolEntrance",
+    "GameObject: ScreenLock (1) | Scene: World_2_BeanBallCourt",
+    "GameObject: ScreenLock (1) | Scene: World_2_FrontGate"
+  ],
+  "Slot_0_saveKeySlotPlayerInventory": [
+    [
+      {
+        "ItemID": "Equip_Gym Shorts",
+        "ItemType": 1,
+        "AmountCollectedList": null
+      },
+      {
+        "ItemID": "Equip_Makeup Kit",
+        "ItemType": 1,
+        "AmountCollectedList": null
+      }
+    ],
+    [
+      {
+        "ItemID": "Equip_Virtual Pet",
+        "ItemType": 1,
+        "AmountCollectedList": null
+      },
+      {
+        "ItemID": "Equip_Makeup Kit",
+        "ItemType": 1,
+        "AmountCollectedList": null
+      }
+    ],
+    [],
+    []
+  ],
+  "Slot_0_saveKeySlotSaveScene": "World_2_WindingWay",
+  "Slot_0_saveKeySlotRecruitData": [
+    {
+      "_EnemyType": 0,
+      "_Health": 0,
+      "_LastCompletedAct": 0,
+      "_DifficaltyType": 0,
+      "_CharacterVariationTypes": 0
+    },
+    {
+      "_EnemyType": 0,
+      "_Health": 0,
+      "_LastCompletedAct": 0,
+      "_DifficaltyType": 0,
+      "_CharacterVariationTypes": 0
+    },
+    {
+      "_EnemyType": 0,
+      "_Health": 0,
+      "_LastCompletedAct": 0,
+      "_DifficaltyType": 0,
+      "_CharacterVariationTypes": 0
+    },
+    {
+      "_EnemyType": 0,
+      "_Health": 0,
+      "_LastCompletedAct": 0,
+      "_DifficaltyType": 0,
+      "_CharacterVariationTypes": 0
+    }
+  ],
+  "Slot_0_saveKeySlotAcquiredMoves": [
+    [
+      "Move_LeftJab_Misako",
+      "Move_Right Cross_Misako",
+      "Move_Gut Kick_Misako",
+      "Move_Uppercut_Misako",
+      "Move_Stomp_Misako",
+      "Move_Nutcracker_Misako",
+      "Move_Headbutt_Misako",
+      "Move_Gut Punch_Misako",
+      "Move_Rolling Punch_Misako",
+      "Move_Clinch Knees_Misako",
+      "Move_Bouncer Throw_Misako",
+      "Move_Back Uppercut_Misako",
+      "Move_Jump Kick_Misako",
+      "Move_Jump Hammer_Misako"
+    ],
+    [
+      "Move_Left Back Chop_Kyoko",
+      "Move_Right Snap Kick_Kyoko",
+      "Move_Left Spin Crescent Kick_Kyoko",
+      "Move_Back Heel Kick_Kyoko",
+      "Move_Donkey Kick_Kyoko",
+      "Move_Stomp_Kyoko",
+      "Move_Flip Kick_Kyoko",
+      "Move_Jumping Back Elbow_Kyoko",
+      "Move_Diving Volleyball Save_Kyoko",
+      "Move_Double Foot Dropkick_Kyoko",
+      "Move_Gut Punch_Kyoko",
+      "Move_Kick Toss_Kyoko",
+      "Move_Grab Back Heel Kick_Kyoko",
+      "Move_Butt Bump_Kyoko",
+      "Move_Head Stomp_Kyoko"
+    ],
+    [],
+    []
+  ],
+  "Slot_0_saveKeySlotStamina": [
+    3,
+    0,
+    0,
+    0
+  ],
+  "Slot_0_saveKeySlotEquippedItems": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "Slot_0_saveKeyGlobalDifficulty": 0,
+  "Slot_0_saveKeySlotAddedAttack": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "Slot_0_saveKeySlotAchievements": [
+    {
+      "DebugElementMakeItPrettyString": "RiverCityHero",
+      "AchievementNameEnglish": 0,
+      "AchievementNameKey": "",
+      "PercentComplete": 0.0625
+    },
+    {
+      "DebugElementMakeItPrettyString": "Yourlessonsareboring",
+      "AchievementNameEnglish": 1,
+      "AchievementNameKey": "",
+      "PercentComplete": 1
+    },
+    {
+      "DebugElementMakeItPrettyString": "KilledbyMath",
+      "AchievementNameEnglish": 2,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "Shopuntiltheydrop",
+      "AchievementNameEnglish": 3,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "Bonafidebargain",
+      "AchievementNameEnglish": 4,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "MasterofUnlocking",
+      "AchievementNameEnglish": 5,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "AnExplosiveEntrance",
+      "AchievementNameEnglish": 6,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "FullService",
+      "AchievementNameEnglish": 7,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "RiverCityRansom",
+      "AchievementNameEnglish": 8,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "WeaponsHandler",
+      "AchievementNameEnglish": 9,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "Carpediem",
+      "AchievementNameEnglish": 10,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "Youreout",
+      "AchievementNameEnglish": 11,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "Backatme",
+      "AchievementNameEnglish": 12,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "BestFriendsForLife",
+      "AchievementNameEnglish": 13,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "FriendlyBeatdown",
+      "AchievementNameEnglish": 14,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "PerfectParry",
+      "AchievementNameEnglish": 15,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "Stylish",
+      "AchievementNameEnglish": 16,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "PowerUp",
+      "AchievementNameEnglish": 17,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "HelpanOldPal",
+      "AchievementNameEnglish": 18,
+      "AchievementNameKey": "",
+      "PercentComplete": 0.16666667
+    },
+    {
+      "DebugElementMakeItPrettyString": "SmashedStatues",
+      "AchievementNameEnglish": 19,
+      "AchievementNameKey": "",
+      "PercentComplete": 0.123
+    },
+    {
+      "DebugElementMakeItPrettyString": "ARealWorkout",
+      "AchievementNameEnglish": 20,
+      "AchievementNameKey": "",
+      "PercentComplete": 2
+    },
+    {
+      "DebugElementMakeItPrettyString": "DefeatingtheDarkArts",
+      "AchievementNameEnglish": 21,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "FashionableBeatdown",
+      "AchievementNameEnglish": 22,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "AByeBye",
+      "AchievementNameEnglish": 23,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "SoMetal",
+      "AchievementNameEnglish": 24,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "LikeFatherLikeDaughter",
+      "AchievementNameEnglish": 25,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "OMGSeriously",
+      "AchievementNameEnglish": 26,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "Renegade",
+      "AchievementNameEnglish": 27,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "Dontmesswithus",
+      "AchievementNameEnglish": 28,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "TAKETHEWORLDON",
+      "AchievementNameEnglish": 29,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "PowerofLove",
+      "AchievementNameEnglish": 30,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "ANewChallenger",
+      "AchievementNameEnglish": 31,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    },
+    {
+      "DebugElementMakeItPrettyString": "Completionist",
+      "AchievementNameEnglish": 32,
+      "AchievementNameKey": "",
+      "PercentComplete": 0
+    }
+  ],
+  "Slot_0_saveKeySlotBossesClobbered": 1,
+  "Slot_0_saveKeyGlobalTextSpeed": 2,
+  "Slot_0_saveKeyGlobalPercentComplete": [
+    "RCG_Event_Quest_Complete_Lets Beat It!",
+    "RCG_Event_Boss_Kill_Misuzu",
+    "world_1_gympool",
+    "world_1_lobby",
+    "world_1_cafeteria",
+    "world_1_gymbasketball",
+    "world_1_sexed",
+    "world_1_chemistry",
+    "world_1_detention",
+    "world_1_1stfloora",
+    "world_1_1stfloorb",
+    "world_1_2ndfloora",
+    "world_1_2ndfloorb",
+    "world_1_3rdfloor",
+    "world_2_beanballcourt",
+    "world_2_frontgate",
+    "world_2_mallentrance",
+    "world_2_northravinelane",
+    "world_2_schoolentrance",
+    "world_2_windingway",
+    "Move_LeftJab_Misako",
+    "Move_Right Cross_Misako",
+    "Move_Gut Kick_Misako",
+    "Move_Uppercut_Misako",
+    "Move_Stomp_Misako",
+    "Move_Nutcracker_Misako",
+    "Move_Headbutt_Misako",
+    "Move_Gut Punch_Misako",
+    "Move_Rolling Punch_Misako",
+    "Move_Clinch Knees_Misako",
+    "Move_Bouncer Throw_Misako",
+    "Move_Back Uppercut_Misako",
+    "Move_Jump Kick_Misako",
+    "Move_Jump Hammer_Misako",
+    "Move_Left Back Chop_Kyoko",
+    "Move_Right Snap Kick_Kyoko",
+    "Move_Left Spin Crescent Kick_Kyoko",
+    "Move_Back Heel Kick_Kyoko",
+    "Move_Donkey Kick_Kyoko",
+    "Move_Stomp_Kyoko",
+    "Move_Flip Kick_Kyoko",
+    "Move_Jumping Back Elbow_Kyoko",
+    "Move_Diving Volleyball Save_Kyoko",
+    "Move_Double Foot Dropkick_Kyoko",
+    "Move_Gut Punch_Kyoko",
+    "Move_Kick Toss_Kyoko",
+    "Move_Grab Back Heel Kick_Kyoko",
+    "Move_Butt Bump_Kyoko",
+    "Move_Head Stomp_Kyoko",
+    "Equip_Gym Shorts",
+    "Equip_Virtual Pet",
+    "Equip_Makeup Kit",
+    "Reggie",
+    "Chara",
+    "Kaitsu",
+    "Hinata"
+  ],
+  "Slot_0_saveKeySlotAddedWeapons": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "saveKeyGlobalUseInGameLanguage": true,
+  "Slot_0_saveKeySlotAddedAgility": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "Slot_0_saveKeyGlobalVoiceVolume": 1,
+  "Slot_0_saveKeySlotLevel": [
+    4,
+    5,
+    1,
+    1
+  ],
+  "Slot_0_saveKeySlotSpecial": [
+    85,
+    100,
+    0,
+    0
+  ],
+  "Slot_0_saveKeySlotTimePlayed": 1782,
+  "Slot_0_saveKeySlotPlayerConsumedItems": [
+    [],
+    [],
+    [],
+    []
+  ],
+  "Slot_0_saveKeySlotExperience": [
+    1355,
+    780,
+    0,
+    0
+  ],
+  "Slot_0_saveKeySlotUnlockedBusStop": [
+    "Bus Stop Crosstown School Front Gate",
+    "Bus Stop Crosstown Mall Entrance"
+  ],
+  "Slot_0_saveKeySlotMoney": [
+    12,
+    8.5,
+    0,
+    0
+  ],
+  "Slot_0_saveKeySlotTotalExperience": [
+    5955,
+    7280,
+    0,
+    0
+  ],
+  "Slot_0_saveKeySlotSeenItems": [
+    {
+      "ItemID": "Equip_Gym Shorts",
+      "ItemType": 1,
+      "AmountCollectedList": null
+    },
+    {
+      "ItemID": "Equip_Virtual Pet",
+      "ItemType": 1,
+      "AmountCollectedList": null
+    },
+    {
+      "ItemID": "Equip_Makeup Kit",
+      "ItemType": 1,
+      "AmountCollectedList": null
+    },
+    {
+      "ItemID": "QuestItem_Get Out",
+      "ItemType": 4,
+      "AmountCollectedList": null
+    },
+    {
+      "ItemID": "Move_Double Foot Dropkick_Kyoko",
+      "ItemType": 3,
+      "AmountCollectedList": null
+    },
+    {
+      "ItemID": "Move_Left Spin Crescent Kick_Kyoko",
+      "ItemType": 3,
+      "AmountCollectedList": null
+    },
+    {
+      "ItemID": "Move_Nutcracker_Misako",
+      "ItemType": 3,
+      "AmountCollectedList": null
+    },
+    {
+      "ItemID": "Move_Gut Kick_Misako",
+      "ItemType": 3,
+      "AmountCollectedList": null
+    }
+  ]
+}

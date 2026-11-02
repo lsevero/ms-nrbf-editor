@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/cli/">
+    <Project Path="cli/MSNRBFEditor.Cli.fsproj" />
+  </Folder>
+  <Folder Name="/core/">
+    <Project Path="core/MSNRBFEditor.Core.fsproj" />
+  </Folder>
+  <Folder Name="/gui/">
+    <Project Path="gui/MSNRBFEditor.Gui.fsproj" />
+  </Folder>
+</Solution>
